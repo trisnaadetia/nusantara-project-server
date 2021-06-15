@@ -1,1 +1,2 @@
-# nusantara-project-server
+# p2-iproject-server
+Individual Project server site
